@@ -15,13 +15,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="135654fc-90be-47f2-9c8b-c3353db32c75" name="Changes" comment="Changes">
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/system-programming.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c_chapter1/helloword" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c_chapter1/helloword.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter2/t1.c" beforeDir="false" afterPath="$PROJECT_DIR$/chapter2/t1.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c_chapter1/.idea/c_chapter1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c_chapter1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c_chapter1/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -104,7 +100,7 @@
       <workItem from="1630337508632" duration="400000" />
       <workItem from="1630337920141" duration="49000" />
       <workItem from="1630524218557" duration="259000" />
-      <workItem from="1630524599264" duration="1844000" />
+      <workItem from="1630524599264" duration="2071000" />
     </task>
     <servers />
   </component>
