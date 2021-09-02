@@ -3,7 +3,7 @@ int g = 100;
 int h;
 static int s;
 extern int mysum(int,int);
-int main(int argc, char *atgv[])
+int main1(int argc, char *atgv[])
 {
     int a = 1;
     int b;
