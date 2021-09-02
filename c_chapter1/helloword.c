@@ -3,7 +3,6 @@
 //
 #include <stdio.h>
 int main(){
-    printf("Hello, World!!\n");
+    printf("Hello, World!!, 这是我的第一个C语言程序\n");
     return 0;
 }
-
