@@ -1,1 +1,0 @@
-/usr/bin/cc -g CMakeFiles/system-programming.dir/chapter2/t1.c.o CMakeFiles/system-programming.dir/chapter2/t2.c.o CMakeFiles/system-programming.dir/c_chapter1/helloword.c.o -o system-programming 
