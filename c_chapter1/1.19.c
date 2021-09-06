@@ -4,7 +4,9 @@
 #include "stdio.h"
 
 #define MAXLINE 1000
-
+/*
+ * 据说不能输入中文我也没办法阿
+ * */
 extern int get_line(char line[], int maxline);
 
 void reverse(char line[]);
