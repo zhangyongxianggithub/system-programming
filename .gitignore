@@ -55,3 +55,6 @@ dkms.conf
 **/a.out
 **/CMakeLists.txt
 
+
+/**/*.out
+/**/*.dSYM
